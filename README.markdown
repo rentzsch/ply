@@ -1,6 +1,6 @@
-#Ply: minimalist CSS library
+##Ply: minimalist CSS library
 
-## What you get:
+### What you get:
 
 * The *universal spacing reset rule* (`*{margin:0;padding:0;}`) for consistent cross-browser spacing.
 
@@ -16,7 +16,7 @@
 
 * Ugly but-not-totally objectionable table styling.
 
-## What you don't:
+### What you don't:
 
 * Full-blown Eric Meyer-style [reset stylesheet](http://meyerweb.com/eric/tools/css/reset/). No need to rebuild the world if your don't nuke it all in the first place.
 
@@ -26,6 +26,6 @@
 
 * "Plugins"
 
-## Browser Support
+### Browser Support
 
 Ply is tested against IE6, IE7, IE8, Firefox 3, Safari 3 and Safari 4.
