@@ -29,3 +29,9 @@
 ### Browser Support
 
 Ply is tested against IE6, IE7, IE8, Firefox 3, Safari 3 and Safari 4.
+
+### TODO
+
+* Documentation
+* Build system for distribution.
+* one point oh.
