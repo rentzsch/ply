@@ -41,7 +41,6 @@ a img, :link img, :visited img { border: none; }
 /* General-style: prettify tables. */
 table {border-collapse: collapse;}
 th, td { border: 1px solid #ccc; padding: 0.25em; }
-th { background-color: #eee; }
 
 /* General-fuctional: 24-column grid. */
 .grid {width:950px;margin:0 auto;}
