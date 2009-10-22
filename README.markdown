@@ -8,8 +8,6 @@
 
 * Richard Rutter-style [cross-browser font-size normalization](http://clagnut.com/blog/348).
 
-* 24 40px column grid system (960px width). 10px column margins. Bluetrip-style naming conventions. That's because I stole most of Bluetrip's grid code, though I did change some paddings into margins and fixed an IE6 double-float-margin.
-
 * Commented and version-controlled. Each line documents the purpose of its own existence. Well, not yet fully. Soon.
 
 * Default sans-serif font everywhere.
