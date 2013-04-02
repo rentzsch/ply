@@ -1,3 +1,5 @@
+# Note: Ply has been surpassed by [Normalize.css](http://necolas.github.com/normalize.css/). Check it out! This repo is now historical.
+
 ### Ply: minimalist CSS library
 
 ### What you get:
